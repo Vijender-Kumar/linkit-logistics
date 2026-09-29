@@ -1,0 +1,5 @@
+/* Base styles. Layout and colors come from the Tailwind utility classes in index.html. */
+html { scroll-behavior: smooth; }
+body { margin: 0; font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+section[id] { scroll-margin-top: 80px; }
