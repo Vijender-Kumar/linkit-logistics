@@ -2,8 +2,8 @@
   // ---- Settings ----
   // Paste your Google Apps Script Web App URL here (ends with /exec).
   // Steps are in README.md. Until it is set, the form falls back to opening an email.
-  var GOOGLE_SHEET_URL = process.env.GOOGLE_SCRIPT_URL;
-  var CONTACT_EMAIL = process.env.CONTACT_EMAIL || "info@linkitlogistics.com";
+  var GOOGLE_SHEET_URL = "https://script.google.com/macros/s/AKfycbxLJmSlrxQ-xZejqJ9v2Zt8-WcHx5980l8eiivRomwGSorFgSoOQgKADvv9u76gQSCUDQ/exec";
+  var CONTACT_EMAIL = "info@linkitlogistics.com";
 
   // ---- Mobile menu ----
   var btn = document.getElementById("menuBtn");
