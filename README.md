@@ -33,7 +33,7 @@ If you later edit `Code.gs`, use **Deploy → Manage deployments → Edit → Ne
 
 Columns saved: Timestamp, Company Name, Email, Contact No, Fleet Size, Vehicle Type, Fuel Type, Pick City, Drop City.
 
-Until `GOOGLE_SHEET_URL` is set, the form opens an email to `info@linkitlogistics.com` instead.
+Until `GOOGLE_SHEET_URL` is set, the form opens an email to `info@linkitnrn.com` instead.
 
 ## Styling
 Styles use Tailwind utility classes, loaded from the Tailwind CDN in `index.html`, so it works
